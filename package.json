@@ -1,0 +1,21 @@
+{
+  "name": "allextutorials__tutorial1_plainservice",
+  "version": "0.1.0",
+  "description": "PlainService",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url" : "git@github.com:allex-tutorial1-services/plain.git"
+  },
+  "keywords": [
+    "ecosystem:allex",
+    "Service",
+    "Plain"
+  ],
+  "author": "Allex Tutorial Team <support@allex.io>",
+  "license": "ISC"
+}
+
